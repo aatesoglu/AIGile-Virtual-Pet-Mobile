@@ -10,7 +10,7 @@ Bu projenin temel amacı, geleneksel sanal bebek mekaniklerini modern UI/UX pren
 
 ## 📥 Uygulama Linki (APK)
 Uygulamanın en güncel halini aşağıdaki bağlantıdan indirebilirsiniz:
-[Download APK (EAS Build)](https://expo.dev/accounts/aatesoglu/projects/Challenge_04_AIgile_Mobile/builds/90f0bd2e-afbc-4cb7-86ce-7fb3603b91fc)
+[Download APK (EAS Build)][https://expo.dev/accounts/aatesoglu/projects/Challenge_04_AIgile_Mobile/builds/90f0bd2e-afbc-4cb7-86ce-7fb3603b91fc]
 
 ---
 
