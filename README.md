@@ -1,16 +1,16 @@
-# Challenge_04_AIgile_Mobile - DigiPet 🐾
+# AIGile-Virtual-Pet-Mobile🐾
 
 Modern ve oyunlaştırılmış bir Tamagotchi (sanal bebek) deneyimi sunan mobil uygulama. Evcil hayvanınızın bakımını yapın, mini oyunlar oynayın ve başarımlar kazanın!
 
 ## 🚀 Proje Amacı
-Bu projenin amacı, geleneksel sanal bebek mekaniklerini modern UI/UX prensipleri, oyunlaştırma (gamification) öğeleri ve çeşitli mini oyunlarla birleştirerek kullanıcıya sürükleyici bir deneyim sunmaktır.
+Bu projenin temel amacı, geleneksel sanal bebek mekaniklerini modern UI/UX prensipleri ve oyunlaştırma (gamification) öğeleriyle birleştirerek sadece bir 'bakım arayüzü' değil, yaşayan ve tepki veren bir ekosistem oluşturmaktır. **React Native Reanimated** ve **Lottie** animasyonları ile desteklenen akıcı kullanıcı deneyimi, farklı odalar (Mutfak, Yatak Odası, Oyun Alanı) arasında geçiş yapılabilen dinamik yapısı ve zengin mini oyun havuzu ile sanal bebek türünü modern ve sürükleyici bir seviyeye taşımayı hedeflemektedir.
 
 ## 📺 Tanıtım Videosu
-[YouTube Tanıtım Videosu Buraya Gelecek]
+[https://youtube.com/shorts/4ijCPfH9RJ0]
 
 ## 📥 Uygulama Linki (APK)
 Uygulamanın en güncel halini aşağıdaki bağlantıdan indirebilirsiniz:
-[Download APK (EAS Build)](https://expo.dev/accounts/aatesoglu/projects/Challenge_04_AIgile_Mobile/builds)
+[Download APK (EAS Build)](https://expo.dev/accounts/aatesoglu/projects/Challenge_04_AIgile_Mobile/builds/90f0bd2e-afbc-4cb7-86ce-7fb3603b91fc)
 
 ---
 
@@ -69,13 +69,3 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    - **Expo Go:** Telefonunuzdaki Expo Go uygulaması ile QR kodu taratın.
 
 ---
-
-## 📝 YouTube Başlık Önerileri
-Videonuz için kullanabileceğiniz etkileşimi yüksek başlıklar:
-1. "Kendi Sanal Bebeğini Yap! | React Native & Expo DigiPet Uygulaması 🐾"
-2. "Efsane Sanal Bebek Uygulaması Geri Döndü! (Full Project Walkthrough)"
-3. "Modern Tamagotchi Yapımı | Challenge 04 AIgile Mobile Geliştirme Günlüğü"
-4. "Oyunlaştırılmış Mobil Uygulama Geliştirme: DigiPet Proje İncelemesi"
-
----
-*Bu proje Challenge 04 kapsamında geliştirilmiştir.*
