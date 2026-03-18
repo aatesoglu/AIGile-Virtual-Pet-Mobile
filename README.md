@@ -50,7 +50,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/Challenge_04_AIgile_Mobile-3.git
+   git clone https://github.com/aatesoglu/AIGile-Virtual-Pet-Mobile.git
    cd Challenge_04_AIgile_Mobile-3
    ```
 
